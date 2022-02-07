@@ -31,7 +31,7 @@ public class Main10 {
          Arrays.fill(array2, 5, 10, 0.5); 
          System.out.println("El arreglo combinado es:");
          System.out.println(Arrays.toString(array2));
-        
+         
         
     }
     

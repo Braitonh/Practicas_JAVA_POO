@@ -45,7 +45,7 @@ public class Persona {
         Date fecha = new Date();
         
         System.out.println("Ingrese Nombre:");
-        this.nombre = read.next();
+        this.nombre = read.nextLine();
         
         System.out.println("Ingrese año de nacimiento:");
         int anio = read.nextInt();

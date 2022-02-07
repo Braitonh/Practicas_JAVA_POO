@@ -1,7 +1,7 @@
 
 package ejercicio_9;
 
-import java.lang.Number;
+
 
 public class Matematica {
     
